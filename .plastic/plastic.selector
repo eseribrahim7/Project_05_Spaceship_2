@@ -1,0 +1,4 @@
+repository "Project_05_Spaceship@zilzao@cloud"
+  path "/"
+    br "/main"
+    co "/main"
